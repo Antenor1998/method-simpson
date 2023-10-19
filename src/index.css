@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  height: 100%;
+}
+
+main{
+  height: 100%;
+}
+
+.mat{
+  padding: 0;
+  display: inline-block ;
+  align-items: center;
+}
